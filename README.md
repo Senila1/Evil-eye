@@ -11,3 +11,7 @@ bash requirement.sh
 
 bash Evil-l.sh
 
+Script by
+
+Technical Cochi
+
