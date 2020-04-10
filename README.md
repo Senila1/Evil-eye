@@ -1,7 +1,7 @@
 # Evil-I
 Termux-Banner
 
-gitgit clone  https://github.com/rixon-cochi/Evil-eye
+git clone  https://github.com/rixon-cochi/Evil-eye
 
 Cd Evil-eye
 
@@ -14,4 +14,6 @@ bash Evil-l.sh
 Script by
 
 Technical Cochi
+
+
 
