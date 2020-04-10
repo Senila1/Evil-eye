@@ -10,7 +10,7 @@ apt install cowsay -y
 apt install nano -y
 apt install ruby -y
 gem install lolcat
-figlet -f big Done !!! | lolcat
+figlet -f big FINISHED !!! | lolcat
 echo
 echo -e "\e[1m Now Run bash Evil-I.sh...!!!"
 echo
