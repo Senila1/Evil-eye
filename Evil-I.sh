@@ -1,7 +1,7 @@
 #!/bin/bash
 #
 # 
-# Evil-I
+# RIXON-CODE
 # Banner by Tech Code (Rixon Xavier)
 #_____Do Not Copy Or Modify_____
 #
