@@ -6,6 +6,7 @@
 #_____Do Not Copy Or Modify_____
 #
 #
+xdg-open http://techcoch.blogspot.com/2020/10/follow-instructions.html?m=1echo 
 clear
 figlet -f big Evil-I | lolcat
 cyan='\e[0;36m'
