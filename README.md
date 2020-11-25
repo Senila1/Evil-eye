@@ -16,7 +16,7 @@ Script by
 Technical Cochi
 ## [+] Find Me on :
 ### [~] [Telegram](https://t.me/tech_cochi)
-### [~] [YouTube](https://www.youtube.com/channel/UCdUnJ0qjDZ-psQYtgyoEl9Q)
+### [~] [YouTube](https://www.youtube.com/techcochi2)
 
 
 
